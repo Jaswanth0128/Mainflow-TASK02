@@ -8,7 +8,7 @@ This task involves using the Pandas library to manipulate data.
 - Perform operations like filtering data based on conditions, handling missing values, and calculating summary statistics.
 
 ## Files
-- `Mainflow-TASK02`: Jupyter notebook containing the code for data manipulation using Pandas.
+- `Mainflow_TASK02`: Jupyter notebook containing the code for data manipulation using Pandas.
 
 
 
